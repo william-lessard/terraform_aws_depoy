@@ -2,8 +2,6 @@ provider "aws" {
  	region = "us-west-1"
 	profile = "default" 
 #	shared_credentials_file = "~/.aws/credentials"
-  access_key = "AKIAJE27XPIHADQOJPVQ"
-  secret_key = "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"
 }
 
 
